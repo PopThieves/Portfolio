@@ -49,7 +49,7 @@ textarea {
 
 a {
   text-decoration: none;
-  color: var(--secondaryText);
+  color: var(--buttonColor);
 }
 
 ul {
